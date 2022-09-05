@@ -12,3 +12,11 @@ console.log(x);
 y = "A Transformation in Education";
 console.log(y);
 
+var name = "Ankesh kumar";
+var age = 20;
+console.log(name);
+console.log(age);
+console.log(typeof(name));
+console.log(typeof(age));
+
+
